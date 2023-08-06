@@ -21,18 +21,6 @@ body {
     padding: 3rem 2rem;
 }
 
-.container-2 {
-    background-color: #bababa;
-    opacity: 0.8;
-    border-radius: 10px;
-    padding: 3rem 2rem;
-    border: 1px solid #000;
-    height: 450px;
-    width: 340px;
-    margin-left: 30px;
-    gap: 1rem;
-}
-
 input {
     background-color: #fff;
     padding: 1rem;
